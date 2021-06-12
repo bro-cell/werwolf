@@ -14,6 +14,36 @@
 		"startappid": ""
 	}],
 	"More": [
+		{
+      "id":1,
+      "judul":"ADS Fast Food Mod",
+      "image":"https://play-lh.googleusercontent.com/caJzCIZPaMszhbbXfrI3MhFTWNUYhzAVEc_963lPT6VlheEbDx0R-w99KqqKKtxKGbA=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.medlokxgew.modfastfood.burgerrestaurantpack"
+    },
+    {
+      "id":2,
+      "judul":"ADS MOD AOT",
+      "image":"https://play-lh.googleusercontent.com/OlMFzqpMzd8fjPfA7ICfhUKZBqC_CudFOsqnzgtS0v85_YKx2KYt1VoA4QZIzqyx-Jc=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mbolkigris.modattacktitans.skinsaotpack"
+    },
+    {
+      "id":3,
+      "judul":"ADS MOD Little Nightmare",
+      "image":"https://play-lh.googleusercontent.com/mbNwkmkELf8DA_-jWjFlTcmqo2M8-ILf_p6S0BTDzVfOO9ziM_V8f7b3LSOL6avmjEU=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.trokxmzen.modlittle.nightmaresformcpe2"
+    },
+    {
+      "id":4,
+      "judul":"ADS MOD Kawaii Craft",
+      "image":"https://play-lh.googleusercontent.com/x9Cr0XP0Hgd6p5lOC5D2hUmQ0zP_-S0DUNPvJeFMe46uAmk-k5BpaUYWlXzCPzKFv3E=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.drewsiplo.kawaiiworld.craftmod"
+    },
+    {
+      "id":5,
+      "judul":"ADS MOD Sonik",
+      "image":"https://play-lh.googleusercontent.com/eIYUBFNMxf26zw9ByonxxlbZRVR4aBrURhpd0A4EPN2R9-6zPc3wvV5pZJBNIANiFQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.yeluratim.bestmodsonik.craftboompack"
+    }
 
 	],
 	"Skin": [{
